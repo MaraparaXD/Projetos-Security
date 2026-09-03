@@ -1,0 +1,12 @@
+#
+# Este projeto usa apenas a biblioteca padrão do Python (3.8+):
+#   socket, threading, queue, re, math, argparse, getpass, datetime
+#
+# Nenhuma dependência externa é necessária.
+# Este arquivo existe apenas para documentar isso e facilitar
+# a expansão futura do projeto.
+
+# Exemplo de dependências que você poderia adicionar nos "próximos passos"
+# do README (descomente se for usar):
+# zxcvbn==4.4.28        # análise de senha mais robusta (usada por Dropbox)
+# requests==2.32.3       # se for integrar com a API do Have I Been Pwned
